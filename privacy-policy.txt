@@ -1,0 +1,103 @@
+Privacy Policy for flipscript
+
+Last updated: January 2024
+
+SUMMARY:
+flipscript is committed to protecting your privacy. We do not collect, store, or transmit any personal data. All processing happens locally in your browser or through secure API calls to Groq, with no data retention on our servers.
+
+1. INFORMATION WE DON'T COLLECT
+
+flipscript is designed with privacy in mind. We do not collect, store, or transmit any of the following:
+
+- Personally identifiable information (names, emails, addresses, etc.)
+- Health information (medical data, health records)
+- Financial and payment information (credit cards, bank details)
+- Authentication information (passwords, credentials)
+- Personal communications (emails, texts, chats)
+- Location data (GPS, IP addresses, location tracking)
+- Web history (browsing history, page visits)
+- User activity (clicks, keystrokes, mouse movements)
+- Website content (images, videos, other content)
+
+2. HOW OUR EXTENSION WORKS
+
+Local Processing:
+- Text selection and processing happens locally
+- Settings and preferences are stored in your browser's local storage
+- No data is sent to our servers
+
+API Communication:
+- Your selected text is sent to Groq's API for AI processing
+- This data is not stored by us and is only used for the immediate request
+- Groq processes the text and returns the result
+- The result is displayed to you and not stored
+
+3. DATA STORAGE
+
+Local Browser Storage:
+- Your Groq API key (encrypted and stored locally)
+- Theme preferences (light, dark, or auto)
+- Custom tone presets (your personal rephrasing preferences)
+- Rephrasing history (optional local history)
+- Default settings (your preferred tones and modes)
+
+Session Storage:
+- Text you've entered for cross-tab synchronization
+- Automatically cleared when you close the browser
+- No session data persists between browser sessions
+
+4. THIRD-PARTY SERVICES
+
+Groq API:
+- Your selected text is sent to Groq for processing
+- Groq's privacy policy applies to their handling of this data
+- We do not have access to or store any data processed by Groq
+- Review Groq's privacy policy at https://groq.com/privacy
+
+5. DATA SECURITY
+
+We implement the following security measures:
+- All API communications use HTTPS encryption
+- Your API key is encrypted when stored locally
+- No data is transmitted to our servers
+- All processing happens in your browser or through secure API calls
+
+6. YOUR RIGHTS
+
+Since we don't collect personal data, you have the following rights:
+- Access: All your data is stored locally in your browser
+- Deletion: You can clear all data by uninstalling the extension
+- Control: You can disable features or clear data at any time
+- Transparency: This privacy policy explains exactly what we do and don't do
+
+7. CHILDREN'S PRIVACY
+
+Our extension is not intended for children under 13. We do not knowingly collect any personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+
+8. CHANGES TO THIS PRIVACY POLICY
+
+We may update this privacy policy from time to time. We will notify you of any changes by:
+- Posting the new privacy policy on this page
+- Updating the "Last updated" date at the top of this policy
+- Notifying users through the Chrome Web Store if significant changes are made
+
+9. INTERNATIONAL USERS
+
+Our extension is designed to work globally. Since we don't collect personal data, we don't transfer data internationally. All processing happens locally in your browser or through secure API calls.
+
+10. CONTACT US
+
+If you have any questions about this privacy policy or our data practices, please contact us:
+
+Email: arun01sankar@gmail.com
+
+11. LEGAL BASIS
+
+This privacy policy is provided in compliance with:
+- Chrome Web Store requirements
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Other applicable privacy laws
+
+© 2024 flipscript. All rights reserved.
+This privacy policy is effective as of January 2024. 
