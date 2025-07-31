@@ -1,6 +1,6 @@
 Privacy Policy for flipscript
 
-Last updated: January 2024
+Last updated: July 2025
 
 SUMMARY:
 flipscript is committed to protecting your privacy. We do not collect, store, or transmit any personal data. All processing happens locally in your browser or through secure API calls to Groq, with no data retention on our servers.
@@ -100,4 +100,4 @@ This privacy policy is provided in compliance with:
 - Other applicable privacy laws
 
 © 2024 flipscript. All rights reserved.
-This privacy policy is effective as of January 2024. 
+This privacy policy is effective as of July 2025. 
